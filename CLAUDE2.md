@@ -102,3 +102,4 @@ ticket_code の expires_at を過ぎたものは使えない（Cloud Functionま
 
 メッセージ開始までの中断リカバリ処理（アプリ再起動時） に対応するため、チケットの created_at からの状態遷移設計が重要
 
+
